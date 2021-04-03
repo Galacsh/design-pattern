@@ -1,0 +1,44 @@
+iterator_pattern/Iterator.java
+ iterator_pattern.Iterator
+iterator_pattern/Aggregate.java
+ iterator_pattern.Aggregate
+iterator_pattern/BookShelf.java
+ iterator_pattern.BookShelf
+iterator_pattern/Book.java
+ iterator_pattern.Book
+iterator_pattern/BookShelfIterator.java
+ iterator_pattern.BookShelfIterator
+iterator_pattern/BookShelfWithList.java
+ iterator_pattern.BookShelfWithList
+adapter_pattern/Logger.java
+ adapter_pattern.Logger
+adapter_pattern/TestOutputLoggerClass.java
+ adapter_pattern.TestOutputLoggerClass
+adapter_pattern/ConsoleLogger.java
+ adapter_pattern.ConsoleLogger
+adapter_pattern/TestOutputLoggerObject.java
+ adapter_pattern.TestOutputLoggerObject
+adapter_pattern/TestOutput.java
+ adapter_pattern.TestOutput
+template_method_pattern/CharDisplay.java
+ template_method_pattern.CharDisplay
+template_method_pattern/AbstractDisplay.java
+ template_method_pattern.AbstractDisplay
+template_method_pattern/StringDisplay.java
+ template_method_pattern.StringDisplay
+factory_pattern/Apple.java
+ factory_pattern.Apple
+factory_pattern/Samsung.java
+ factory_pattern.Samsung
+factory_pattern/Phone.java
+ factory_pattern.Phone
+factory_pattern/PhoneFactory.java
+ factory_pattern.PhoneFactory
+singleton_pattern/UniqueObject.java
+ singleton_pattern.UniqueObject
+prototype_pattern/Commit.java
+ prototype_pattern.Commit
+prototype_pattern/Git.java
+ prototype_pattern.Git
+prototype_pattern/Branch.java
+ prototype_pattern.Branch

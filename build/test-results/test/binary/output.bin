@@ -1,0 +1,34 @@
+I============= Test [PrototypePatternTest - gitSimulation] =============
+
+========= BRANCHES =========
+> [master]
+============================
+
+
+===== VERSION INFO =====
+3Commit{index=0, message='Initialize with README'}
+(Commit{index=1, message='Hello world'}
+8Commit{index=2, message='Committed to master branch.'}
+========================
+
+
+===== VERSION INFO =====
+3Commit{index=0, message='Initialize with README'}
+(Commit{index=1, message='Hello world'}
+7Commit{index=2, message='Committed to first branch.'}
+========================
+
+
+===== VERSION INFO =====
+3Commit{index=0, message='Initialize with README'}
+(Commit{index=1, message='Hello world'}
+8Commit{index=2, message='Committed to second branch.'}
+========================
+
+
+========= BRANCHES =========
+> [first]
+> [master]
+> [second]
+============================
+

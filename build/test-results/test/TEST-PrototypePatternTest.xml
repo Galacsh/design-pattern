@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PrototypePatternTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-04-03T05:00:07" hostname="CHA" time="0.067">
+  <properties/>
+  <testcase name="gitSimulation()" classname="PrototypePatternTest" time="0.067"/>
+  <system-out><![CDATA[============= Test [PrototypePatternTest - gitSimulation] =============
+
+========= BRANCHES =========
+> [master]
+============================
+
+
+===== VERSION INFO =====
+Commit{index=0, message='Initialize with README'}
+Commit{index=1, message='Hello world'}
+Commit{index=2, message='Committed to master branch.'}
+========================
+
+
+===== VERSION INFO =====
+Commit{index=0, message='Initialize with README'}
+Commit{index=1, message='Hello world'}
+Commit{index=2, message='Committed to first branch.'}
+========================
+
+
+===== VERSION INFO =====
+Commit{index=0, message='Initialize with README'}
+Commit{index=1, message='Hello world'}
+Commit{index=2, message='Committed to second branch.'}
+========================
+
+
+========= BRANCHES =========
+> [first]
+> [master]
+> [second]
+============================
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

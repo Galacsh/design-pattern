@@ -1,0 +1,12 @@
+iterator_pattern/IteratorPatternTest.java
+ iterator_pattern.IteratorPatternTest
+adapter_pattern/AdapterPatternTest.java
+ adapter_pattern.AdapterPatternTest
+template_method_pattern/TemplateMethodTest.java
+ template_method_pattern.TemplateMethodTest
+factory_pattern/FactoryTemplateTest.java
+ factory_pattern.FactoryTemplateTest
+singleton_pattern/SingletonPatternTest.java
+ singleton_pattern.SingletonPatternTest
+PrototypePatternTest.java
+ PrototypePatternTest
